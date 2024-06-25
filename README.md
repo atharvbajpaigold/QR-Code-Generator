@@ -1,1 +1,1 @@
-# QR-Code-Generator
+This is a qr code generator made by me and it asks some questions like dimensions of qr , url , title , file location and it also tells you a message that your file has been saved . It uses main 2 libraries of python - Tkinter and qrcode. Thank You :-) written by :- Atharv Bajpai
